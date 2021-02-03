@@ -1,1 +1,6 @@
 # Assignment-2-Data-Charting-
+
+Ameh Solomon Onyeke 
+17CJ022472
+CEN 414 ASSIGNMENT
+CHARTING POPULATION DATA OF NIGERIA 2012
